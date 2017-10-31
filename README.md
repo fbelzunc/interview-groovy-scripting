@@ -24,7 +24,7 @@ Print only the items which has something set-up in the *Poll SCM* section and sh
 
 # Exercise 5. Print how long took the last build done
 
-Print for all the Jobs how long took the last build done.
+Print for all the Jobs how long took the last build.
 
 # Exercise 6. Create a FreeSytyle job from Groovy console
 
